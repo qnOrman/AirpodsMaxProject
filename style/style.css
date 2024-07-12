@@ -255,7 +255,7 @@ body{
 /* Section Audio */
 .audio{
     position: relative;
-    background: url(/airpods-project/img/audio-full.jpg) no-repeat  top center /cover ;
+    background: url(/img/audio-full.jpg) no-repeat  top center /cover ;
 }
 
 /* .audio::before{
